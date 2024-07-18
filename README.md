@@ -41,6 +41,12 @@ Learn about the conditions that lead to deadlocks, prevention techniques, and re
 
 Understand the hardware/software interface, file concepts, and disk scheduling algorithms. Topics include FCFS, SSTF, SCAN, and disk reliability.
 
+## Requirements
+
+- A Linux-based operating system or a Linux virtual environment.
+- Basic knowledge of Linux commands and shell scripting
+- A C compiler (e.g., GCC) for C programs.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
