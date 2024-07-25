@@ -4,7 +4,9 @@ Welcome to the Operating Systems Algorithms repository. This repository provides
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=apple,bash,windows,ubuntu,redhat,debian" />
+<img src="https://skillicons.dev/icons?i=apple,bash,windows"/><br>
+<img src="https://skillicons.dev/icons?i=ubuntu,debian"/><br>
+<img src="https://skillicons.dev/icons?i=redhat"/>
 </a>
 </div>
 
