@@ -2,6 +2,12 @@
 
 Welcome to the Operating Systems Algorithms repository. This repository provides a comprehensive overview of key concepts in operating systems, including processes, threads, scheduling, memory management, and file systems.
 
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=bash,windows,ubuntu,redhat,debain" />
+</a>
+</div>
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
